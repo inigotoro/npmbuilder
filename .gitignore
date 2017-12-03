@@ -1,1 +1,4 @@
 node_modules/
+**/*/__bundled__.css
+**/*/__bundled__.js
+**/*/__closured__.js
